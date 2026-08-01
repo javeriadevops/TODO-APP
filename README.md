@@ -9,6 +9,4 @@ Users can add tasks, mark them as completed, and delete them easily.
 - Delete tasks 🗑️
 - Clean and colorful UI  
 
-## 🖥️ Run Locally
-```bash
-streamlit run todo_app.py
+
